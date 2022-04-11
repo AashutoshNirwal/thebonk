@@ -1,0 +1,70 @@
+#head{
+    background-color: #adf0d1;
+    height: 4rem;
+    
+    
+}
+body{
+    background-color: #00203f;
+    font-family: Palette Mosaic,gigi regular,arial;
+    color: azure;
+}
+h2{
+    color: azure;
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+}
+#bonk{
+    width: 80px;
+    height:80px;
+}
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
+#card{
+    width: 250px;
+    height: 320px;
+    background-color: #adf0d1;
+    border-radius: 10px;
+    margin: 40px;
+}
+#end{
+    text-align: right;
+}
+form{
+    margin-left:  35%;
+    margin-top: 100px;
+}
+#sub{
+    
+    margin-left: 17%;
+}
+#pimg{
+    position: fixed;
+    visibility: hidden;
+    width: 500px;
+    height: 500px;
+    margin-left: 35%;
+    border-radius: 2%;
+}
+#uimg{
+    position: fixed;
+    visibility: hidden;
+    width: 500px;
+    height: 500px;
+    margin-left: 35%;
+    border-radius: 2%;
+}
+#rmv{
+    position: fixed;
+    visibility: hidden;
+    width: 90px;
+    height: 90px;
+    margin-left: 65%;
+    border: none;
+    color: #adf0d1;
+    background: none;
+}
