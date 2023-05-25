@@ -1,0 +1,8 @@
+bad apple
+bad banana
+bad orange
+bad pomegranate
+good apple
+good banana
+good orange
+good pomegranate
